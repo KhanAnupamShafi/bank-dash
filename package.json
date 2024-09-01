@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://main.dtf1ae17e89vm.amplifyapp.com/#/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
